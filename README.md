@@ -1,6 +1,6 @@
 # BlynkRemoteRobotCar
 
-How to setup ESP8266 Library(TH) : http://www.thaieasyelec.com/article-wiki/embedded-electronics-application/getting-started-with-esp8266-nodemcu.html 
+How to setup ESP8266 for Arduino IDE (TH) : http://www.thaieasyelec.com/article-wiki/embedded-electronics-application/getting-started-with-esp8266-nodemcu.html 
 
 Blynk Getting Start : http://www.blynk.cc/getting-started/
 
